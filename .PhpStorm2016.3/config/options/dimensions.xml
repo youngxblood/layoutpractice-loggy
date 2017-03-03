@@ -1,0 +1,14 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="740" y="172" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2587" y="331" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2660" y="268" />
+    <location key="NewPhpFileDialog.1920.0.1920.1080" x="2714" y="441" />
+    <location key="#CLI_Interpreters.1920.0.1920.1080" x="2460" y="168" />
+    <location key="SettingsEditor.1920.0.1920.1080" x="2361" y="169" />
+    <location key="CommitChangelistDialog2.1920.0.1920.1080" x="2503" y="117" />
+    <location key="Github.ShareDialog.1920.0.1920.1080" x="2672" y="389" />
+    <size key="SettingsEditor.1920.0.1920.1080" width="1038" height="742" />
+  </component>
+</application>
